@@ -4,5 +4,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudwl1005a&show_icons=true&theme=dark)
 
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwl1005)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwl1005)](https://solved.ac/profile/rudwl1005)
