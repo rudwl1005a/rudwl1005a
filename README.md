@@ -1,7 +1,3 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20KyungdaeMin%20%20&height=200&fontSize=100)
--->
-
 ## GitHub
 
 > 1일 1commit을 목표로 하고 있습니다
