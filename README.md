@@ -13,6 +13,6 @@
 
 <!-- 
 ------------
-## Portfolio
+## Portfolio(notion)
 
 https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477bab45ede79f0c3186 -->
