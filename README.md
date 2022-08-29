@@ -15,6 +15,7 @@
 ## Project
 
 > 1. HomeArt<br>
-> 2. HappyHous<br>
+    그림공유 SNS 서비스입니다.
+> 2. HappyHouse<br>
 > 3. 줌글(Zoomgle)
 -->
