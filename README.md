@@ -30,5 +30,5 @@
     그림공유 SNS 서비스입니다.
 > 2. HappyHouse<br>
     카카오 맵API를 이용한 집 찾기 서비스입니다.
-> 3. 줌글(Zoomgle)
+> 3. 줌글(Zoomgle) 
 -->
