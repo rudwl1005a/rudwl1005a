@@ -44,6 +44,9 @@
 > 2. HappyHouse<br>
     카카오 맵API를 이용한 집 찾기 서비스입니다.
 > 3. 줌글(Zoomgle)
+    WebRTC와 WebSocket을 이용한 비대면 보드게임 웹 프로젝트 입니다.
 > 4. 엽서사전
+    Gaugan과 neural-style-algorithm 기술을 사용한 그림 자동생성 엽서 제작 웹 프로젝트 입니다.
 > 5. Royale 
+    주짓수 대회 리그로얄을 자동화 한 웹 프로젝트 입니다.
 -->
