@@ -40,13 +40,18 @@
 ## Project
 
 > 1. HomeArt<br>
+    5인 프로젝트
     그림공유 SNS 서비스입니다.
 > 2. HappyHouse<br>
+    2인 프로젝트
     카카오 맵API를 이용한 집 찾기 서비스입니다.
 > 3. 줌글(Zoomgle)
+    6인 프로젝트
     WebRTC와 WebSocket을 이용한 비대면 보드게임 웹 프로젝트 입니다.
 > 4. 엽서사전
+    5인 프로젝트
     Gaugan과 neural-style-algorithm 기술을 사용한 그림 자동생성 엽서 제작 웹 프로젝트 입니다.
 > 5. Royale 
+    4인 프로젝트
     주짓수 대회 리그로얄을 자동화 한 웹 프로젝트 입니다.
 -->
