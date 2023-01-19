@@ -1,3 +1,13 @@
+# 배움과 도전을 즐기는 개발자, 민경대입니다!
+
+💻 **Backend Engineer, Web Developer**
+
+**새로운 지식을 배우는 것**을 좋아하고, **새로운 도전**을 좋아하는 **개발자**입니다.
+
+계획한 것을 꼭 **실행**하고, 성실하게 맡은 일을 끝까지 완수하는 **책임감**이 저의 장점입니다.
+
+[📖Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477bab45ede79f0c3186)
+
 # GitHub
 
 > 1일 1commit을 목표로 하고 있습니다
