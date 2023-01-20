@@ -6,7 +6,8 @@
 
 계획한 것을 꼭 **실행**하고, 성실하게 맡은 일을 끝까지 완수하는 **책임감**이 저의 장점입니다.
 
-[📖Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477bab45ede79f0c3186)
+[![image](https://user-images.githubusercontent.com/81034311/213663996-2fe50e25-2798-45a3-bdbd-fa0e7cbff9be.png)
+Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477bab45ede79f0c3186)
 
 # GitHub
 
