@@ -53,6 +53,7 @@ Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477b
 > 1. HomeArt<br>
     5인 프로젝트
     그림공유 SNS 서비스입니다.
+    Java와 SpringMVC패턴으로 백엔드를 구성했고, MySQL와 AWS S3를 사용하여 데이터를 저장하고, JSP로 프론트를 제작했습니다.
 > 2. HappyHouse<br>
     2인 프로젝트
     카카오 맵API를 이용한 집 찾기 서비스입니다.
