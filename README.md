@@ -57,6 +57,7 @@ Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477b
 > 2. HappyHouse<br>
     2인 프로젝트
     카카오 맵API를 이용한 집 찾기 서비스입니다.
+    Java와 SpringBoot로 백엔드를 구성했고, MySQL을 사용하여 데이터 저장, Vue를 사용하여 프론트를 제작했습니다.
 > 3. 줌글(Zoomgle)
     6인 프로젝트
     WebRTC와 WebSocket을 이용한 비대면 보드게임 웹 프로젝트 입니다.
