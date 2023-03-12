@@ -65,6 +65,7 @@ Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477b
 > 4. 엽서사전
     5인 프로젝트
     Gaugan과 neural-style-algorithm 기술을 사용한 그림 자동생성 엽서 제작 웹 프로젝트 입니다.
+    Java와 SpringBoot로 백엔드를 구성했고, MySQL을 사용하여 데이터 저장, Vue를 사용하여 프론트를 제작했습니다.
 > 5. Royale 
     4인 프로젝트
     주짓수 대회 리그로얄을 자동화 한 웹 프로젝트 입니다.
