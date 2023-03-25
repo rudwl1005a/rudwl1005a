@@ -69,5 +69,7 @@ Notion Protfolio](https://rudwl1005.notion.site/Min-s-Portfolio-2e8b43a72832477b
 > 5. Royale 
     4인 프로젝트
     주짓수 대회 리그로얄을 자동화 한 웹 프로젝트 입니다.
-    적절한 자료구조와 알고리즘을 사용하여 자동 대진표를 만들었고, WebSocket을 사용하여 실시간 스코어보드를 개발하였습니다
+    적절한 자료구조와 알고리즘을 사용하여 자동 대진표를 만들었고, WebSocket을 사용하여 실시간 스코어보드를 개발하였습니다.
+    Java와 SpringBoot로 백엔드를 구성했고, MySQL을 사용하여 데이터 저장, React를 사용하여 프론트를 제작했습니다.
+    Jenkins와 Docker를 사용하여 CI/CD를 구성하였습니다.
 -->
