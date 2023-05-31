@@ -6,23 +6,6 @@
 
 계획한 것을 꼭 **실행**하고, 성실하게 맡은 일을 끝까지 완수하는 **책임감**이 저의 장점입니다.
 
-[![image](https://user-images.githubusercontent.com/81034311/213663996-2fe50e25-2798-45a3-bdbd-fa0e7cbff9be.png)
-노션 포트폴리오](https://rudwl1005.notion.site/Min-s-Portfolio-24b4665e10ab411b8647bef00247acd5)
-
-# GitHub
-
-> 1일 1commit을 목표로 하고 있습니다
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudwl1005a&show_icons=true&theme=dark)
-
------------- 
-# BOJ
-
-> 하루 한 문제 풀이(잔디깔기)를 목표로 하고있습니다 
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwl1005)](https://solved.ac/profile/rudwl1005)　![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudwl1005&theme=warm)
-
------------- 
 
 # 🛠️ Tech Stack & Tools 🛠️
 ### Platforms & Languages
@@ -73,3 +56,21 @@
     Java와 SpringBoot로 백엔드를 구성했고, MySQL을 사용하여 데이터 저장, React를 사용하여 프론트를 제작했습니다.
     Jenkins와 Docker를 사용하여 CI/CD를 구성하였습니다.
 -->
+
+[![image](https://user-images.githubusercontent.com/81034311/213663996-2fe50e25-2798-45a3-bdbd-fa0e7cbff9be.png)
+노션 포트폴리오](https://rudwl1005.notion.site/Min-s-Portfolio-24b4665e10ab411b8647bef00247acd5)
+
+# GitHub
+
+> 1일 1commit을 목표로 하고 있습니다
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudwl1005a&show_icons=true&theme=dark)
+
+------------ 
+# BOJ
+
+> 하루 한 문제 풀이(잔디깔기)를 목표로 하고있습니다 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwl1005)](https://solved.ac/profile/rudwl1005)　![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudwl1005&theme=warm)
+
+------------ 
