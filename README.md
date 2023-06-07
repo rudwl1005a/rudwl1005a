@@ -32,6 +32,23 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
+------------ 
+
+# GitHub
+
+> 1일 1commit을 목표로 하고 있습니다
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudwl1005a&show_icons=true&theme=dark)
+
+------------ 
+# BOJ
+
+> 하루 한 문제 풀이(잔디깔기)를 목표로 하고있습니다 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwl1005)](https://solved.ac/profile/rudwl1005)　![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudwl1005&theme=warm)
+
+------------ 
+
 <!--
 ## Project
 
@@ -58,18 +75,3 @@
     Java와 SpringBoot로 백엔드를 구성했고, MySQL을 사용하여 데이터 저장, React를 사용하여 프론트를 제작했습니다.
     Jenkins와 Docker를 사용하여 CI/CD를 구성하였습니다.
 -->
-
-# GitHub
-
-> 1일 1commit을 목표로 하고 있습니다
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rudwl1005a&show_icons=true&theme=dark)
-
------------- 
-# BOJ
-
-> 하루 한 문제 풀이(잔디깔기)를 목표로 하고있습니다 
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwl1005)](https://solved.ac/profile/rudwl1005)　![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudwl1005&theme=warm)
-
------------- 
