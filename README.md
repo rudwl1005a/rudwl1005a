@@ -75,3 +75,10 @@
     Java와 SpringBoot로 백엔드를 구성했고, MySQL을 사용하여 데이터 저장, React를 사용하여 프론트를 제작했습니다.
     Jenkins와 Docker를 사용하여 CI/CD를 구성하였습니다.
 -->
+
+<!--
+## Experience
+
+> 1. 이랜드 이노플 인턴 (7/3~8/23)
+
+-->
